@@ -1,0 +1,16 @@
+apiVersion: v1
+entries:
+  openshift-gitops:
+  - apiVersion: v2
+    appVersion: v2.1.5
+    created: "2021-11-07T02:35:26.717046739-06:00"
+    description: A Helm chart for customising the deployment of the OpenShift GitOps
+      Operator
+    digest: e0e5044a8dbf1a643ffe5614d8dc9af2c9ea783597dff04b3b46c3c099821f3f
+    maintainers:
+    - name: jvarela
+    name: openshift-gitops
+    urls:
+    - https://jvarela01.github.io/helm-charts/openshift-gitops-0.0.1.tgz
+    version: 0.0.1
+generated: "2021-11-07T02:35:26.716416658-06:00"
