@@ -11,6 +11,6 @@ entries:
     - name: jvarela
     name: openshift-gitops
     urls:
-    - https://jvarela01.github.io/helm-charts/openshift-gitops-0.0.1.tgz
+    - https://linuxeroagrio.github.io/helm-charts/openshift-gitops-0.0.1.tgz
     version: 0.0.1
 generated: "2021-11-07T02:35:26.716416658-06:00"
