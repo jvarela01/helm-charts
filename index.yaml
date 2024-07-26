@@ -13,4 +13,15 @@ entries:
     urls:
     - https://linuxeroagrio.github.io/helm-charts/openshift-gitops-0.0.1.tgz
     version: 0.0.1
-generated: "2021-11-07T02:35:26.716416658-06:00"
+  demo-servicemesh-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-07-26T01:32:42.644232336-06:00"
+    description: A simple demo service mesh app for OpenShift
+    digest: cb72a2c2b90599d486021d61d6fcd19363179e63bd776daa08a93b3b251cab9b
+    name: demo-servicemesh-app
+    type: application
+    urls:
+    - https://linuxeroagrio.github.io/helm-charts/demo-servicemesh-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-07-26T01:32:42.643934918-06:00"
